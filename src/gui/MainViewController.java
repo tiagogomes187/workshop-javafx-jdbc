@@ -36,7 +36,10 @@ public class MainViewController implements Initializable{
 	@FXML
 	public void onMenuItemDepartmentAction() {
 		loadView2("/gui/DepartmentList.fxml");
+<<<<<<< HEAD
 		//Mudar aqui depois
+=======
+>>>>>>> 0d1c90e3e0e2ee0b0e8de19289156c3cb62dbf14
 	}
 	
 	@FXML
